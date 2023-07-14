@@ -36,7 +36,7 @@ function ShopItem({ itemId, addItemToCart }) {
           <p>
             <strong>About the image: </strong>
             {item.description ||
-              "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore et odio porro numquam laboriosam consectetur optio. Magni est quam vero error harum commodi quos doloremque possimus. Accusantium laboriosam sed vero."}
+              "The universe is home to countless planets, each with its own unique characteristics. From the scorching heat of Mercury, the closest planet to the Sun, to the frigid cold of Neptune, the farthest known planet, the diversity is astounding. Venus boasts a thick atmosphere and a runaway greenhouse effect, while Mars captivates with its rusty red surface and potential for life. Jupiter, a gas giant, reigns as the largest planet, adorned with mesmerizing swirling storms like the Great Red Spot. Saturn enchants with its iconic rings, while Uranus and Neptune intrigue with their icy compositions and captivating blue hues. Every planet holds a celestial story waiting to be explored."}
           </p>
 
           <div className="buttons-wrapper">
