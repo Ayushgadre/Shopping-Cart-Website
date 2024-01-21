@@ -7,16 +7,16 @@ Clean design of an e-commerce page with shopping-cart capabilities.
 
 ### Screenshots
 
-#### home page
+#### Home page
 ![image](https://user-images.githubusercontent.com/22618438/101240380-e8244080-36e6-11eb-87b9-3ca04851c74e.png)
 
-#### main shop view
+#### Main Shop View
 ![image](https://user-images.githubusercontent.com/22618438/101240384-f4a89900-36e6-11eb-8553-d938af5e72b3.png)
 
-#### single item view
+#### Single Item View
 ![image](https://user-images.githubusercontent.com/22618438/101240353-c1660a00-36e6-11eb-9505-be2e7b7c7534.png)
 
-#### checkout
+#### Checkout
 ![image](https://user-images.githubusercontent.com/22618438/101240363-cdea6280-36e6-11eb-863c-18e367afd48d.png)
 
 ## Objectives & Outcomes
